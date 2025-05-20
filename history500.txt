@@ -1,0 +1,1000 @@
+ 1208  nano grep.sh 
+ 1209  bash grep.sh 
+ 1210  nano grep.sh 
+ 1211  bash grep.sh 
+ 1212  nano grep.sh 
+ 1213  bash grep.sh 
+ 1214  nano grep.sh 
+ 1215  bash grep.sh 
+ 1216  nano grep.sh 
+ 1217  grep -iv 1 1.txt 
+ 1218  grep -iv as 1.txt 
+ 1219  nano grep.sh 
+ 1220  grep -of as 1.txt 
+ 1221  ls
+ 1222  cat arg.txt 
+ 1223  ls
+ 1224  nano grep.sh 
+ 1225  bash grep.sh 
+ 1226  grep -o f arg.txt as 1.txt 
+ 1227  grep -of arg.txt as 1.txt 
+ 1228  ./grep3 -of arg.txt as 1.txt 
+ 1229  nano grep.sh 
+ 1230  bash grep.sh 
+ 1231  nano grep.sh 
+ 1232  bash grep.sh 
+ 1233  grep -of arg.txt as 1.txt 
+ 1234  grep -of arg.txt 1 1.txt 
+ 1235  ./grep3 -of arg.txt 1 1.txt 
+ 1236  nano grep.sh 
+ 1237  bash grep.sh 
+ 1238  nano grep.sh 
+ 1239  grep -e as 1.txt 
+ 1240  ./grep3 -e as 1.txt 
+ 1241  bash grep.sh 
+ 1242  nano grep.sh 
+ 1243  bash grep.sh 
+ 1244  grep -iv as 1.txt 
+ 1245  ./grep3 -iv as 1.txt 
+ 1246  grep -i as 1.txt 
+ 1247  ./grep3 -i as 1.txt 
+ 1248  grep -iv as 1.txt 
+ 1249  ./grep3 -iv as 1.txt 
+ 1250  ./grep3 -i as 1.txt 
+ 1251  ./grep3 -iv as 1.txt 
+ 1252  ./grep3 -vi as 1.txt 
+ 1253  bash grep.sh 
+ 1254  nano grep.sh 
+ 1255  grep -f arg.txt 1.txt 
+ 1256  ./grep3 -f arg.txt 1.txt 
+ 1257  nano grep.sh 
+ 1258  bash grep.sh 
+ 1259  nano grep.sh 
+ 1260  bash grep.sh 
+ 1261  nano grep.sh 
+ 1262  bash grep.sh 
+ 1263  grep -of arg.txt 1.txt 
+ 1264  ./grep3 -of arg.txt 1.txt 
+ 1265  cat 1.txt 
+ 1266  grep -oe 45 -e 78 1.txt 
+ 1267  ./grep3 -oe 45 -e 78 1.txt 
+ 1268  grep -oe 456 -e 789 1.txt 
+ 1269  grep -oe 4567 -e 789 1.txt 
+ 1270  ./grep3 -oe 4567 -e 789 1.txt 
+ 1271  ./grep3 -oe 4567 -e 789 2.txt 
+ 1272  grep -oe 4567 -e 789 2.txt 
+ 1273  cat 2.txt 
+ 1274  nano 2.txt 
+ 1275  grep -oe 4567 -e 789 2.txt 
+ 1276  cat 2.txt 
+ 1277  grep -oe 5 -e 7 2.txt 
+ 1278  ./grep3 -oe 5 -e 7 2.txt 
+ 1279  grep -e 5|7 2.txt 
+ 1280  grep -e [5|7] 2.txt 
+ 1281  grep -e 5\|7 2.txt 
+ 1282  grep -e [5\|7] 2.txt 
+ 1283  grep -e 5 -e 7 2.txt 
+ 1284  grep -e [abv] 2.txt 
+ 1285  grep -e [abv|a] 2.txt 
+ 1286  grep -e [abv\|a] 2.txt 
+ 1287  grep -e [adv\|a] 2.txt 
+ 1288  grep -e adv\|a 2.txt 
+ 1289  grep -e 'adv|a' 2.txt 
+ 1290  grep -e '(adv|a)' 2.txt 
+ 1291  grep -E '(adv|a)' 2.txt 
+ 1292  grep -E adv|a 2.txt 
+ 1293  grep -E '(adv)' 2.txt 
+ 1294  grep '(adv)' 2.txt 
+ 1295  grep '(a)' 2.txt 
+ 1296  grep a 2.txt 
+ 1297  ./grep a 2.txt 
+ 1298  ./grep3 a 2.txt 
+ 1299  grep a b 2.txt 
+ 1300  bash grep.sh 
+ 1301  nano grep.sh 
+ 1302  bash grep.sh 
+ 1303  nano grep.sh 
+ 1304  bash grep.sh 
+ 1305  git branch
+ 1306  grep e
+ 1307  ./grep3 a
+ 1308  ./grep3
+ 1309  ./grep3 a
+ 1310  ./grep3
+ 1311  ./grep3 a
+ 1312  bash grep.sh 
+ 1313  ./grep3 -cl 1 1.txt 
+ 1314  grep -cl 1 1.txt 
+ 1315  ./grep3 -cl 1 1.txt 
+ 1316  nano grep.sh 
+ 1317  bash grep.sh 
+ 1318  nano grep.sh 
+ 1319  bash grep.sh 
+ 1320  nano grep.sh 
+ 1321  bash grep.sh 
+ 1322  nano grep.sh 
+ 1323  grep -cl as 1.txt 
+ 1324  ./grep3 -cl as 1.txt 
+ 1325  nano grep.sh 
+ 1326  bash grep.sh 
+ 1327  nano grep.sh 
+ 1328  bash grep.sh 
+ 1329  nano grep.sh 
+ 1330  ./grep3 -cl 1 1.txt 
+ 1331  ./grep3 -cl as 1.txt 
+ 1332  nano grep.sh 
+ 1333  bash grep.sh 
+ 1334  nano grep.sh 
+ 1335  bash grep.sh 
+ 1336  nano grep.sh 
+ 1337  bash grep.sh 
+ 1338  grep -nh as 1.txt 
+ 1339  ./grep3 -nh as 1.txt 
+ 1340  nano grep.sh 
+ 1341  bash grep.sh 
+ 1342  nano grep.sh 
+ 1343  bash grep.sh 
+ 1344  grep -ch as 1.txt 
+ 1345  ./grep3 -ch as 1.txt 
+ 1346  cd day01/C3_SimpleBashUtils.ID_353513-1/src/cat/
+ 1347  bash grep.sh
+ 1348  ./grep3
+ 1349  bash grep.sh
+ 1350  ./grep3 -e 1 1.txt 
+ 1351  grep -e 1 1.txt 23223.txt
+ 1352  ./grep3 -e 1 1.txt 23222.txt
+ 1353  ./grep3 -e 1 1.txt 2.txt 
+ 1354  ./grep3 -e 1 1.txt 2.txt 22222222.txt
+ 1355  bash grep.sh
+ 1356  grep -e 1 1.txt 2222222.txt 2.txt 
+ 1357  ./grep3 -e 1 1.txt 222222.txt 2.txt 
+ 1358  grep -e 1 1.txt 2222222.txt 2.txt 
+ 1359  bash grep.sh
+ 1360  ./grep3 -e 1 1.txt 222222.txt 2.txt 
+ 1361  bash grep.sh
+ 1362  ./grep3 -e 1 1.txt 222222.txt 2.txt 
+ 1363  bash grep.sh
+ 1364  ./grep3 -e 1 1.txt 222222.txt 2.txt 
+ 1365  bash grep.sh
+ 1366  ./grep3 -e 1 1.txt 222222.txt 2.txt 
+ 1367  ./grep3 -e 1 2.txt 
+ 1368  grep -t 1 1.txt 
+ 1369  grep -te 1 1.txt 
+ 1370  grep -t -e 1 1.txt 
+ 1371  grep -ot 1 1.txt 
+ 1372  ./grep3 -t 1 2.txt 
+ 1373  grep -f arg.txt 1.txt 
+ 1374  grep -f arg1.txt 1.txt 
+ 1375  ./grep3 -f arg.txt 2.txt 
+ 1376  ./grep3 -f arg2.txt 2.txt 
+ 1377  grep -f arg.txt arg1.txt 1.txt 
+ 1378  ./grep3 -f arg2.txt 2.txt 
+ 1379  bash grep.sh
+ 1380  ./grep3 -f arg2.txt 2.txt 
+ 1381  ./grep3 -t 1 2.txt 
+ 1382  bash grep.sh
+ 1383  ./grep3 -f arg.txt 2.txt 
+ 1384  bash grep.sh
+ 1385  ./grep3 -f arg.txt 2.txt 
+ 1386  bash grep.sh
+ 1387  ./grep3 -f arg.txt 2.txt 
+ 1388  bash grep.sh
+ 1389  ./grep3 -f arg.txt 2.txt 
+ 1390  bash grep.sh
+ 1391  ./grep3 -f arg.txt 2.txt 
+ 1392  bash grep.sh
+ 1393  ./grep3 -f arg.txt 2.txt 
+ 1394  bash grep.sh
+ 1395  ./grep3 -f arg.txt 2.txt 
+ 1396  bash grep.sh
+ 1397  ./grep3 -f arg.txt 2.txt 
+ 1398  bash grep.sh
+ 1399  ./grep3 -f arg.txt 2.txt 
+ 1400  bash grep.sh
+ 1401  ./grep3 -f arg.txt 2.txt 
+ 1402  bash grep.sh
+ 1403  ./grep3 -f arg.txt 2.txt 
+ 1404  bash grep.sh
+ 1405  ./grep3 -t 1 2.txt 
+ 1406  ./grep3 -et 1 2.txt 
+ 1407  ./grep3 -te 1 2.txt 
+ 1408  ./grep3 -e 1 -t 2.txt 
+ 1409  bash grep.sh
+ 1410  ./grep3 -e 1 -t 2.txt 
+ 1411  ./grep3 -e 1 -e 5 2.txt 
+ 1412  bash grep.sh
+ 1413  ./grep3 -e 1 -e 5 2.txt 
+ 1414  bash grep.sh
+ 1415  ./grep3 -e 1 -e 5 2.txt 
+ 1416  bash grep.sh
+ 1417  ./grep3 -e 1 -e 5 2.txt 
+ 1418  ./grep3 -o 1 1.txt 2.txt 
+ 1419  bash grep.sh
+ 1420  ./grep3 -o 1 1.txt 2.txt 
+ 1421  bash grep.sh
+ 1422  ./grep3 -o 1 1.txt 2.txt 
+ 1423  grep -oc 1 1.txt 2.txt 
+ 1424  ./grep3 -oc 1 1.txt 2.txt 
+ 1425  bash grep.sh
+ 1426  bash tesh.sh
+ 1427  bash test.sh 
+ 1428  ./grep3 -oc 1 *.txt
+ 1429  bash test.sh 
+ 1430  ./grep3 -oi 1 *.txt
+ 1431  grep -oc 1 *.txt
+ 1432  grep -oi 1 *.txt
+ 1433  ./grep3 -oi 1 *.txt
+ 1434  bash test.sh 
+ 1435  ./grep3 -ov 1 1.txt 
+ 1436  grep -ov 1 1.txt
+ 1437  cat 1.txt 
+ 1438  grep -ov 1 1.txt
+ 1439  bash test.sh 
+ 1440  grep -oc 1 1.txt
+ 1441  ./grep3 -oc 1 1.txt 
+ 1442  bash test.sh 
+ 1443  ./grep3 -oc 1 1.txt 
+ 1444  bash test.sh 
+ 1445  ./grep3 -oc 1 1.txt 
+ 1446  bash test.sh 
+ 1447  ./grep3 -oc 1 1.txt 
+ 1448  bash test.sh 
+ 1449  bash grep.sh 
+ 1450  ./grep3 -oc 1 1.txt 
+ 1451  bash grep.sh 
+ 1452  bash test.sh 
+ 1453  ./grep3 -on 1 1.txt 
+ 1454  grep -on 1 1.txt
+ 1455  bash test.sh 
+ 1456  grep -on 1 1.txt
+ 1457  ./grep3 -on 1 1.txt 
+ 1458  bash test.sh 
+ 1459  ./grep3 -on 1 1.txt 
+ 1460  grep -on 1 1.txt
+ 1461  grep -oc 1 1.txt
+ 1462  grep -ocn 1 1.txt
+ 1463  grep -onc 1 1.txt
+ 1464  ./grep3 -on 1 1.txt 
+ 1465  bash test.sh 
+ 1466  bash grep.sh
+ 1467  ./grep3 -on 1 1.txt 
+ 1468  bash test.sh 
+ 1469  bash grep.sh
+ 1470  ./grep3 -on 1 1.txt 
+ 1471  ./grep3 -e 1 1.txt 
+ 1472  cd day01/C3_SimpleBashUtils.ID_353513-1/src/
+ 1473  ls
+ 1474  cat Makefile 
+ 1475  cd cat
+ 1476  ls
+ 1477  bash grep.sh
+ 1478  bash cat.sh
+ 1479  ./s21_cat 1.txt -bevEnstT
+ 1480  bash cat.sh
+ 1481  ./s21_cat 1.txt -be -
+ 1482  cat 1.txt -be -
+ 1483  bash cat.sh
+ 1484  ls
+ 1485  cat 123.txt 
+ 1486  ./s21_cat 123.txt 
+ 1487  bash cat.sh
+ 1488  cd ../grep/
+ 1489  bash grep.sh 
+ 1490  grep -ie 1 1.txt 
+ 1491  bash grep.sh 
+ 1492  grep -ei 1 1.txt 
+ 1493  grep -fi 1 1.txt 
+ 1494  ./s21_grep -fi 1 1.txt 
+ 1495  make s21_grep 
+ 1496  bash grep.sh 
+ 1497  ./s21_grep -ie 1 1.txt 
+ 1498  grep -ie 1 1.txt 
+ 1499  make s21_grep 
+ 1500  bash grep.sh 
+ 1501  grep -ie 1 1.txt 
+ 1502  ./s21_grep -ie 1 1.txt 
+ 1503  grep -ei 1 1.txt 
+ 1504  ./s21_grep -ei 1 1.txt 
+ 1505  make s21_grep 
+ 1506  bash grep.sh 
+ 1507  ./s21_grep -ei 1 1.txt 
+ 1508  grep -ei 1 1.txt 
+ 1509  bash grep.sh 
+ 1510  ./s21_grep -ivce 1 1.txt 
+ 1511  grep -ivce 1 1.txt 
+ 1512  ./s21_grep -ivce [a-z]. 1.txt arg.txt 
+ 1513  grep -ivce [a-z]. 1.txt arg.txt 
+ 1514  ./s21_grep -ivce [a-z]. 1.txt arg.txt 
+ 1515  make s21_grep 
+ 1516  bash grep.sh 
+ 1517  ./s21_grep -ivce [a-z]. 1.txt arg.txt 
+ 1518  grep -ivce [a-z]. 1.txt arg.txt 
+ 1519  make s21_grep 
+ 1520  bash grep.sh 
+ 1521  ./s21_grep -ivce [a-z]. 1.txt arg.txt 
+ 1522  grep -ivce [a-z]. 1.txt arg.txt 
+ 1523  bash grep.sh 
+ 1524  ./s21_grep -e -i [a-z]. 1.txt arg.txt 
+ 1525  grep -e -i [a-z]. 1.txt arg.txt 
+ 1526  bash grep.sh 
+ 1527  ./s21_grep -e [a-z]. 1.txt arg.txt -c
+ 1528  grep -e [a-z]. 1.txt arg.txt -c
+ 1529  make s21_grep 
+ 1530  ./s21_grep -e [a-z]. 1.txt arg.txt -c
+ 1531  cat arg.txt 
+ 1532  make s21_grep 
+ 1533  ./s21_grep -e [a-z]. 1.txt arg.txt -c
+ 1534  make s21_grep 
+ 1535  ./s21_grep -e [a-z]. 1.txt arg.txt -c
+ 1536  make s21_grep 
+ 1537  ./s21_grep -e [a-z]. 1.txt arg.txt -c
+ 1538  make s21_grep 
+ 1539  bash grep.sh 
+ 1540  make s21_grep 
+ 1541  bash grep.sh 
+ 1542  ./s21_grep -e [a-z]. 1.txt arg.txt -c
+ 1543  make s21_grep 
+ 1544  bash grep.sh 
+ 1545  ./s21_grep -e [a-z]. 1.txt arg.txt -l
+ 1546  grep -e [a-z]. 1.txt arg.txt -l
+ 1547  make s21_grep 
+ 1548  bash grep.sh 
+ 1549  ./s21_grep -e [a-z]. 1.txt arg.txt -l
+ 1550  grep -e [a-z]. 1.txt arg.txt -l
+ 1551  make s21_grep 
+ 1552  ./s21_grep -e [a-z]. 1.txt arg.txt -l
+ 1553  make s21_grep 
+ 1554  bash grep.sh 
+ 1555  ./s21_grep -e [a-z]. 1.txt arg.txt -l
+ 1556  make s21_grep 
+ 1557  ./s21_grep -e [a-z]. 1.txt arg.txt -l
+ 1558  grep -e [a-z]. 1.txt arg.txt -l
+ 1559  make s21_grep 
+ 1560  ./s21_grep -e [a-z]. 1.txt arg.txt -l
+ 1561  make s21_grep 
+ 1562  ./s21_grep -e [a-z]. 1.txt arg.txt -l
+ 1563  make s21_grep 
+ 1564  ./s21_grep -e [a-z]. 1.txt arg.txt -l
+ 1565  make s21_grep 
+ 1566  ./s21_grep -e [a-z]. 1.txt arg.txt -l
+ 1567  make s21_grep 
+ 1568  ./s21_grep -e [a-z]. 1.txt arg.txt -l
+ 1569  ./s21_grep -e 1 1.txt arg.txt
+ 1570  ./s21_grep -e [a-z]. 1.txt arg.txt -l
+ 1571  make s21_grep 
+ 1572  ./s21_grep -e [a-z]. 1.txt arg.txt -l
+ 1573  make s21_grep 
+ 1574  ./s21_grep -e [a-z]. 1.txt arg.txt -l
+ 1575  make s21_grep 
+ 1576  bash grep.sh 
+ 1577  ./s21_grep -e [a-z]. 1.txt arg.txt -n
+ 1578  grep -e [a-z]. 1.txt arg.txt -n
+ 1579  make s21_grep 
+ 1580  ./s21_grep -e [a-z]. 1.txt arg.txt -n
+ 1581  make s21_grep 
+ 1582  ./s21_grep -e [a-z]. 1.txt arg.txt -n
+ 1583  make s21_grep 
+ 1584  ./s21_grep -e [a-z]. 1.txt arg.txt -n
+ 1585  bash grep.sh 
+ 1586  ./s21_grep -e [a-z]. 1.txt arg.txt -e
+ 1587  grep -e [a-z]. 1.txt arg.txt -e
+ 1588  grep -e
+ 1589  make s21_grep 
+ 1590  bash grep.sh 
+ 1591  ./s21_grep -e [a-z]. 1.txt arg.txt -e
+ 1592  make s21_grep 
+ 1593  bash grep.sh 
+ 1594  ./s21_grep -e [a-z]. 1.txt arg.txt -e
+ 1595  make s21_grep 
+ 1596  ./s21_grep -e [a-z]. 1.txt arg.txt -e
+ 1597  make s21_grep 
+ 1598  bash grep.sh 
+ 1599  ./s21_grep -e [a-z]. 1.txt arg.txt -e
+ 1600  make s21_grep 
+ 1601  ./s21_grep -e [a-z]. 1.txt arg.txt -e
+ 1602  make s21_grep 
+ 1603  bash grep.sh 
+ 1604  ./s21_grep -v [a-z]. 1.txt arg.txt -l
+ 1605  grep -v [a-z]. 1.txt arg.txt -l
+ 1606  make s21_grep 
+ 1607  bash grep.sh 
+ 1608  ./s21_grep -v [a-z]. 1.txt arg.txt -n
+ 1609  grep -v [a-z]. 1.txt arg.txt -n
+ 1610  make s21_grep 
+ 1611  bash grep.sh 
+ 1612  ./s21_grep -v [a-z]. 1.txt arg.txt -n
+ 1613  grep -v [a-z]. 1.txt arg.txt -n
+ 1614  make s21_grep 
+ 1615  bash grep.sh 
+ 1616  ./s21_grep -v [a-z]. 1.txt arg.txt -n
+ 1617  make s21_grep 
+ 1618  ./s21_grep -v [a-z]. 1.txt arg.txt -n
+ 1619  make s21_grep 
+ 1620  bash grep.sh 
+ 1621  ./s21_grep -v [a-z]. 1.txt arg.txt -n
+ 1622  make s21_grep 
+ 1623  ./s21_grep -v [a-z]. 1.txt arg.txt -n
+ 1624  make s21_grep 
+ 1625  bash grep.sh 
+ 1626  ./s21_grep -v [a-z]. 1.txt arg.txt -n
+ 1627  make s21_grep 
+ 1628  bash grep.sh 
+ 1629  ./s21_grep -v [a-z]. 1.txt arg.txt -n
+ 1630  bash grep.sh 
+ 1631  ./s21_grep -v [a-z]. 1.txt arg.txt -h
+ 1632  grep -v [a-z]. 1.txt arg.txt -h
+ 1633  make s21_grep 
+ 1634  bash grep.sh 
+ 1635  ./s21_grep -c [a-z]. 1.txt arg.txt -l
+ 1636  grep -c [a-z]. 1.txt arg.txt -l
+ 1637  make s21_grep 
+ 1638  bash grep.sh 
+ 1639  ./s21_grep -c [a-z]. 1.txt arg.txt -l
+ 1640  bash grep.sh 
+ 1641  ./s21_grep -c [a-z]. 1.txt arg.txt -n
+ 1642  grep -c [a-z]. 1.txt arg.txt -n
+ 1643  make s21_grep 
+ 1644  bash grep.sh 
+ 1645  ./s21_grep -c [a-z]. 1.txt arg.txt -n
+ 1646  make s21_grep 
+ 1647  bash grep.sh 
+ 1648  make s21_grep 
+ 1649  bash grep.sh 
+ 1650  ./s21_grep -c [a-z]. 1.txt arg.txt -n
+ 1651  make s21_grep 
+ 1652  bash grep.sh 
+ 1653  make s21_grep 
+ 1654  bash grep.sh 
+ 1655  ./s21_grep -c [a-z]. 1.txt arg.txt -s
+ 1656  grep -c [a-z]. 1.txt arg.txt -s
+ 1657  make s21_grep 
+ 1658  ./s21_grep -c [a-z]. 1.txt arg.txt -s
+ 1659  bash grep.sh 
+ 1660  ./s21_grep -c [a-z]. 1.txt arg.txt -o
+ 1661  grep -c [a-z]. 1.txt arg.txt -s
+ 1662  make s21_grep 
+ 1663  bash grep.sh 
+ 1664  ./s21_grep -l [a-z]. 1.txt arg.txt -o
+ 1665  grep -l [a-z]. 1.txt arg.txt -o
+ 1666  make s21_grep 
+ 1667  bash grep.sh 
+ 1668  ./s21_grep -l [a-z]. 1.txt arg.txt -o
+ 1669  make s21_grep 
+ 1670  bash grep.sh 
+ 1671  ./s21_grep -l [a-z]. 1.txt arg.txt -o
+ 1672  make s21_grep 
+ 1673  bash grep.sh 
+ 1674  ./s21_grep -l [a-z]. 1.txt arg.txt -o
+ 1675  make s21_grep 
+ 1676  ./s21_grep -l [a-z]. 1.txt arg.txt -o
+ 1677  make s21_grep 
+ 1678  ./s21_grep -l [a-z]. 1.txt arg.txt -o
+ 1679  bash grep.sh 
+ 1680  make s21_grep 
+ 1681  bash grep.sh 
+ 1682  ./s21_grep -l [a-z]. 1.txt arg.txt -o
+ 1683  grep -l [a-z]. 1.txt arg.txt -o
+ 1684  make s21_grep 
+ 1685  bash grep.sh 
+ 1686  ./s21_grep -l [a-z]. 1.txt arg.txt -o
+ 1687  make s21_grep 
+ 1688  ./s21_grep -l [a-z]. 1.txt arg.txt -o
+ 1689  make s21_grep 
+ 1690  ./s21_grep -l [a-z]. 1.txt arg.txt -o
+ 1691  cat 1.txt 
+ 1692  ./s21_grep -l [a-z]. 1.txt arg.txt -o
+ 1693  make s21_grep 
+ 1694  ./s21_grep -l [a-z]. 1.txt arg.txt -o
+ 1695  make s21_grep 
+ 1696  ./s21_grep -l [a-z]. 1.txt arg.txt -o
+ 1697  make s21_grep 
+ 1698  ./s21_grep -l [a-z]. 1.txt arg.txt -o
+ 1699  make s21_grep 
+ 1700  ./s21_grep -l [a-z]. 1.txt arg.txt -o
+ 1701  make s21_grep 
+ 1702  ./s21_grep -l [a-z]. 1.txt arg.txt -o
+ 1703  make s21_grep 
+ 1704  bash grep.sh 
+ 1705  ./s21_grep -l [a-z]. 1.txt arg.txt -o
+ 1706  make s21_grep 
+ 1707  bash grep.sh 
+ 1708  cat 2.txt 
+ 1709  ./s21_grep -l [a-z]. 1.txt arg.txt 2.txt -o
+ 1710  grep -l [a-z]. 1.txt arg.txt 2.txt -o
+ 1711  ./s21_grep -l [a-z]. 1.txt arg.txt 2.txt arg.txt -o
+ 1712  grep -l [a-z]. 1.txt arg.txt 2.txt arg.txt -o
+ 1713  bash grep.sh 
+ 1714  ./s21_grep -n [a-z]. 1.txt arg.txt 2.txt arg.txt -h
+ 1715  grep -n [a-z]. 1.txt arg.txt 2.txt arg.txt -h
+ 1716  make s21_grep 
+ 1717  bash grep.sh 
+ 1718  ./s21_grep -n [a-z]. 1.txt arg.txt 2.txt arg.txt -h
+ 1719  grep -n [a-z]. 1.txt arg.txt 2.txt arg.txt -h
+ 1720  make s21_grep 
+ 1721  bash grep.sh 
+ 1722  ./s21_grep -n [a-z]. 1.txt arg.txt 2.txt arg.txt -h
+ 1723  bash grep.sh 
+ 1724  ./s21_grep -n [a-z]. 1.txt arg.txt 2.txt arg.txt -o
+ 1725  grep -n [a-z]. 1.txt arg.txt 2.txt arg.txt -o
+ 1726  make s21_grep 
+ 1727  bash grep.sh 
+ 1728  ./s21_grep -h [a-z]. 1.txt arg.txt 2.txt arg.txt -o
+ 1729  grep -h [a-z]. 1.txt arg.txt 2.txt arg.txt -o
+ 1730  make s21_grep 
+ 1731  bash grep.sh 
+ 1732  cat arg.txt 
+ 1733  nano arg.txt 
+ 1734  bash grep.sh 
+ 1735  ./s21_grep -f arg.txt 1.txt arg.txt -c
+ 1736  grep -f arg.txt 1.txt arg.txt -c
+ 1737  make s21_grep 
+ 1738  bash grep.sh 
+ 1739  ./s21_grep -f arg.txt 1.txt arg.txt -c
+ 1740  make s21_grep 
+ 1741  bash grep.sh 
+ 1742  cat arg.txt 
+ 1743  nano arg.txt 
+ 1744  bash grep.sh 
+ 1745  nano arg.txt 
+ 1746  ./s21_grep -f arg.txt 1.txt arg.txt -o
+ 1747  grep -f arg.txt 1.txt arg.txt -o
+ 1748  make s21_grep 
+ 1749  ./s21_grep -f arg.txt 1.txt arg.txt -o
+ 1750  make s21_grep 
+ 1751  ./s21_grep -f arg.txt 1.txt arg.txt -o
+ 1752  make s21_grep 
+ 1753  ./s21_grep -f arg.txt 1.txt arg.txt -o
+ 1754  make s21_grep 
+ 1755  ./s21_grep -f arg.txt 1.txt arg.txt -o
+ 1756  make s21_grep 
+ 1757  ./s21_grep -f arg.txt 1.txt arg.txt -o
+ 1758  cat arg.txt 
+ 1759  make s21_grep 
+ 1760  ./s21_grep -f arg.txt 1.txt arg.txt -o
+ 1761  make s21_grep 
+ 1762  ./s21_grep -f arg.txt 1.txt arg.txt -o
+ 1763  make s21_grep 
+ 1764  ./s21_grep -f arg.txt 1.txt arg.txt -o
+ 1765  make s21_grep 
+ 1766  ./s21_grep -f arg.txt 1.txt arg.txt -o
+ 1767  make s21_grep 
+ 1768  ./s21_grep -f arg.txt 1.txt arg.txt -o
+ 1769  ./s21_grep -e 1 -e 2 1.txt 
+ 1770  cat arg
+ 1771  cat arg.txt 
+ 1772  ./s21_grep -e 1 -e 456 1.txt 
+ 1773  ./s21_grep -f arg.txt 1.txt arg.txt -o
+ 1774  grep -f arg.txt 1.txt arg.txt -o
+ 1775  make s21_grep 
+ 1776  ./s21_grep -f arg.txt 1.txt arg.txt -o
+ 1777  make s21_grep 
+ 1778  ./s21_grep -f arg.txt 1.txt arg.txt -o
+ 1779  make s21_grep 
+ 1780  ./s21_grep -f arg.txt 1.txt arg.txt -o
+ 1781  make s21_grep 
+ 1782  ./s21_grep -f arg.txt 1.txt arg.txt -o
+ 1783  make s21_grep 
+ 1784  ./s21_grep -f arg.txt 1.txt arg.txt -o
+ 1785  make s21_grep 
+ 1786  ./s21_grep -f arg.txt 1.txt arg.txt -o
+ 1787  make s21_grep 
+ 1788  ./s21_grep -f arg.txt 1.txt arg.txt -o
+ 1789  make s21_grep 
+ 1790  ./s21_grep -f arg.txt 1.txt arg.txt -o
+ 1791  cat arg.txt 
+ 1792  make s21_grep 
+ 1793  ./s21_grep -f arg.txt 1.txt arg.txt -o
+ 1794  make s21_grep 
+ 1795  bash grep.sh
+ 1796  ./s21_grep -f arg.txt 1.txt arg.txt -o
+ 1797  make s21_grep 
+ 1798  bash grep.sh
+ 1799  ./s21_grep -f arg.txt 1.txt arg.txt -o
+ 1800  make s21_grep 
+ 1801  ./s21_grep -f arg.txt 1.txt arg.txt -o
+ 1802  make s21_grep 
+ 1803  ./s21_grep -f arg.txt 1.txt arg.txt -o
+ 1804  make s21_grep 
+ 1805  ./s21_grep -f arg.txt 1.txt arg.txt -o
+ 1806  make s21_grep 
+ 1807  ./s21_grep -f arg.txt 1.txt arg.txt -o
+ 1808  nano arg.txt 
+ 1809  ./s21_grep -f arg.txt 1.txt arg.txt -o
+ 1810  nano arg.txt 
+ 1811  make s21_grep 
+ 1812  ./s21_grep -f arg.txt 1.txt arg.txt -o
+ 1813  nano arg.txt 
+ 1814  ./s21_grep -f arg.txt 1.txt arg.txt -o
+ 1815  nano arg.txt 
+ 1816  ./s21_grep -f arg.txt 1.txt arg.txt -o
+ 1817  make s21_grep 
+ 1818  ./s21_grep -f arg.txt 1.txt arg.txt -o
+ 1819  make s21_grep 
+ 1820  ./s21_grep -f arg.txt 1.txt arg.txt -o
+ 1821  grep -f arg.txt 1.txt arg.txt -o
+ 1822  ./s21_grep -f arg.txt 1.txt arg.txt -o
+ 1823  make s21_grep 
+ 1824  ./s21_grep -f arg.txt 1.txt arg.txt -o
+ 1825  make s21_grep 
+ 1826  ./s21_grep -f arg.txt 1.txt arg.txt -o
+ 1827  make s21_grep 
+ 1828  ./s21_grep -f arg.txt 1.txt arg.txt -o
+ 1829  make s21_grep 
+ 1830  ./s21_grep -f arg.txt 1.txt arg.txt -o
+ 1831  make s21_grep 
+ 1832  ./s21_grep -f arg.txt 1.txt arg.txt -o
+ 1833  make s21_grep 
+ 1834  ./s21_grep -f arg.txt 1.txt arg.txt -o
+ 1835  bash grep.sh
+ 1836  make s21_grep 
+ 1837  ./s21_grep -f arg.txt 1.txt arg.txt -o
+ 1838  make s21_grep 
+ 1839  ./s21_grep -f arg.txt 1.txt arg.txt -o
+ 1840  make s21_grep 
+ 1841  ./s21_grep -f arg.txt 1.txt arg.txt -o
+ 1842  make s21_grep 
+ 1843  ./s21_grep -f arg.txt 1.txt arg.txt -o
+ 1844  make s21_grep 
+ 1845  ./s21_grep -f arg.txt 1.txt arg.txt -o
+ 1846  make s21_grep 
+ 1847  ./s21_grep -f arg.txt 1.txt arg.txt -o
+ 1848  make s21_grep 
+ 1849  ./s21_grep -f arg.txt 1.txt arg.txt -o
+ 1850  ./s21_grep -f arg.txt 1.txt 2.txt -o
+ 1851  make s21_grep 
+ 1852  ./s21_grep -f arg.txt 1.txt 2.txt -o
+ 1853  make s21_grep 
+ 1854  ./s21_grep -f arg.txt 1.txt 2.txt -o
+ 1855  make s21_grep 
+ 1856  ./s21_grep -f arg.txt 1.txt 2.txt -o
+ 1857  make s21_grep 
+ 1858  ./s21_grep -f arg.txt 1.txt 2.txt -o
+ 1859  make s21_grep 
+ 1860  ./s21_grep -f arg.txt 1.txt 2.txt -o
+ 1861  make s21_grep 
+ 1862  ./s21_grep -f arg.txt 1.txt 2.txt -o
+ 1863  make s21_grep 
+ 1864  ./s21_grep -f arg.txt 1.txt 2.txt -o
+ 1865  bash grep.sh
+ 1866  ./s21_grep -o 1.txt
+ 1867  make s21_grep 
+ 1868  ./s21_grep -o 1.txt
+ 1869  make s21_grep 
+ 1870  bash grep.sh
+ 1871  ./s21_grep -o 1.txt
+ 1872  ./s21_grep -o 1 1.txt
+ 1873  make s21_grep 
+ 1874  ./s21_grep -o 1 1.txt
+ 1875  bash grep.sh
+ 1876  make s21_grep 
+ 1877  ./s21_grep -o 1 1.txt
+ 1878  make s21_grep 
+ 1879  ./s21_grep -o 1 1.txt
+ 1880  make s21_grep 
+ 1881  ./s21_grep -o 1 1.txt
+ 1882  bash grep.sh
+ 1883  ./s21_grep -f arg.txt 1.txt -o
+ 1884  make s21_grep 
+ 1885  ./s21_grep -f arg.txt 1.txt -o
+ 1886  make s21_grep 
+ 1887  ./s21_grep -f arg.txt 1.txt -o
+ 1888  make s21_grep 
+ 1889  ./s21_grep -f arg.txt 1.txt -o
+ 1890  make s21_grep 
+ 1891  ./s21_grep -f arg.txt 1.txt -o
+ 1892  make s21_grep 
+ 1893  ./s21_grep -f arg.txt 1.txt -o
+ 1894  make s21_grep 
+ 1895  ./s21_grep -f arg.txt 1.txt -o
+ 1896  cat arg.txt 
+ 1897  nano arg.txt 
+ 1898  ./s21_grep -f arg.txt 1.txt -o
+ 1899  nano arg.txt 
+ 1900  ./s21_grep -f arg.txt 1.txt -o
+ 1901  make s21_grep 
+ 1902  ./s21_grep -f arg.txt 1.txt -o
+ 1903  make s21_grep 
+ 1904  ./s21_grep -f arg.txt 1.txt -o
+ 1905  cat 1.txt 
+ 1906  make s21_grep 
+ 1907  ./s21_grep -f arg.txt 1.txt -o
+ 1908  cat arg.txt 
+ 1909  make s21_grep 
+ 1910  ./s21_grep -f arg.txt 1.txt -o
+ 1911  make s21_grep 
+ 1912  ./s21_grep -f arg.txt 1.txt -o
+ 1913  make s21_grep 
+ 1914  ./s21_grep -f arg.txt 1.txt -o
+ 1915  make s21_grep 
+ 1916  ./s21_grep -f arg.txt 1.txt -o
+ 1917  make s21_grep 
+ 1918  ./s21_grep -f arg.txt 1.txt -o
+ 1919  make s21_grep 
+ 1920  ./s21_grep -f arg.txt 1.txt -o
+ 1921  make s21_grep 
+ 1922  ./s21_grep -f arg.txt 1.txt -o
+ 1923  make s21_grep 
+ 1924  ./s21_grep -f arg.txt 1.txt -o
+ 1925  make s21_grep 
+ 1926  ./s21_grep -f arg.txt 1.txt -o
+ 1927  make s21_grep 
+ 1928  ./s21_grep -f arg.txt 1.txt -o
+ 1929  make s21_grep 
+ 1930  ./s21_grep -f arg.txt 1.txt -o
+ 1931  make s21_grep 
+ 1932  ./s21_grep -f arg.txt 1.txt -o
+ 1933  make s21_grep 
+ 1934  ./s21_grep -f arg.txt 1.txt -o
+ 1935  make s21_grep 
+ 1936  ./s21_grep -f arg.txt 1.txt -o
+ 1937  make s21_grep 
+ 1938  ./s21_grep -f arg.txt 1.txt -o
+ 1939  cat arg.txt 
+ 1940  make s21_grep 
+ 1941  ./s21_grep -f arg.txt 1.txt -o
+ 1942  make s21_grep 
+ 1943  ./s21_grep -f arg.txt 1.txt -o
+ 1944  make s21_grep 
+ 1945  ./s21_grep -f arg.txt 1.txt -o
+ 1946  make s21_grep 
+ 1947  ./s21_grep -f arg.txt 1.txt -o
+ 1948  make s21_grep 
+ 1949  ./s21_grep -f arg.txt 1.txt -o
+ 1950  make s21_grep 
+ 1951  bash grep.sh
+ 1952  ls
+ 1953  cd ../cat/
+ 1954  ls
+ 1955  cp ascii.txt ../grep/
+ 1956  cd ../grep/
+ 1957  bash grep.sh
+ 1958  grep -e ..[A-Z] 1.txt ascii.txt -i
+ 1959  ./s21_grep -e ..[A-Z] 1.txt ascii.txt -i
+ 1960  grep -e ..[A-Z] ascii.txt -i
+ 1961  ./s21_grep -e ..[A-Z] ascii.txt -i
+ 1962  bash grep.sh
+ 1963  grep -e * ascii.txt 
+ 1964  grep -i * ascii.txt 
+ 1965  grep -v * ascii.txt 
+ 1966  grep -c * ascii.txt 
+ 1967  grep -l * ascii.txt 
+ 1968  grep - * ascii.txt 
+ 1969  grep -n * ascii.txt 
+ 1970  grep -h * ascii.txt 
+ 1971  grep -s * ascii.txt 
+ 1972  grep -o * ascii.txt 
+ 1973  bash grep.sh
+ 1974  grep -e a arg.txt ascii.txt -i
+ 1975  grep -e a b c ascii.txt -i
+ 1976  cat arg.txt 
+ 1977  grep -e 1 arg.txt ascii.txt -i
+ 1978  ./s21_grep -e 1 arg.txt ascii.txt -i
+ 1979  bash grep.sh
+ 1980  ./s21_grep -e [a-z]. 1.txt arg.txt -c
+ 1981  grep -e [a-z]. 1.txt arg.txt -c
+ 1982  make s21_grep 
+ 1983  bash grep.sh
+ 1984  grep 1.txt arg.txt -iv a
+ 1985  bash grep.sh
+ 1986  grep 1.txt arg.txt -iv a
+ 1987  ./s21_grep 1.txt arg.txt -iv a
+ 1988  bash grep.sh
+ 1989  ./s21_grep -ivc [a-z]. 1.txt arg.txt
+ 1990  grep -ivc [a-z]. 1.txt arg.txt
+ 1991  cd day01
+ 1992  cd C3_SimpleBashUtils.ID_353513-1/src/cat/
+ 1993  ls
+ 1994  cd ~
+ 1995  ls
+ 1996  cd C3_SimpleBashUtils.ID_353513-1/src/cat/
+ 1997  cd day01_simpleBash/C3_SimpleBashUtils.ID_353513-1/src/cat/
+ 1998  cp cat.c ~/day01_simpleBash/C3_SimpleBashUtils.ID_353513-1/src/cat/
+ 1999  cp cat.c ~/day01_simpleBash/C3_SimpleBashUtils.ID_353513-1/src/cat/cat.c
+ 2000  cd day01/C3_SimpleBashUtils.ID_353513-1/src/grep/
+ 2001  ./s21_grep -f 1.txt 3.txt 
+ 2002  ls
+ 2003  ./s21_grep -f 3.txt 1.txt 
+ 2004  grep -f 3.txt 1.txt 
+ 2005  make s21_grep 
+ 2006  bash grep.sh
+ 2007  make s21_grep 
+ 2008  bash grep.sh
+ 2009  ./s21_grep -f 3.txt 1.txt 
+ 2010  ./s21_grep -f 1.txt 3.txt 
+ 2011  grep -f 1.txt 3.txt 
+ 2012  calgrind --enable=all --std=c11 ./s21_grep -f 3.txt 1.txt 
+ 2013  valgrind --enable=all --std=c11 ./s21_grep -f 3.txt 1.txt 
+ 2014  valgrind -enable=all --std=c11 ./s21_grep -f 3.txt 1.txt 
+ 2015  man valgrind
+ 2016  man valgrind | grep --enable
+ 2017  man valgrind | grep enable
+ 2018  man valgrind | grep enable=all
+ 2019  man valgrind | grep enable-all
+ 2020  valgrind --enable-all --std=c11 ./s21_grep -f 3.txt 1.txt 
+ 2021  valgrind --enable=all --std=c11 ./s21_grep -f 3.txt 1.txt 
+ 2022  valgrind --leak-check=full ./s21_grep -f 3.txt 1.txt 
+ 2023  valgrind --leak-check=full ./s21_grep -f 1.txt 3.txt 
+ 2024  valgrind --leak-check=full ./s21_grep -if 3.txt 1.txt 
+ 2025  valgrind --leak-check=full ./s21_grep -e 1 -e 2 -e 3 -f 3.txt 1.txt 
+ 2026  valgrind --leak-check=full ./s21_grep -if 3.txt 1.txt 
+ 2027  valgrind --leak-check=full ./s21_grep -vf 3.txt 1.txt 
+ 2028  valgrind --leak-check=full ./s21_grep -cf 3.txt 1.txt 
+ 2029  valgrind --leak-check=full ./s21_grep -lf 3.txt 1.txt 
+ 2030  valgrind --leak-check=full ./s21_grep -nf 3.txt 1.txt 
+ 2031  valgrind --leak-check=full ./s21_grep -nf big_file.txt 1.txt 
+ 2032  valgrind --leak-check=full ./s21_grep -nf drgresfsf.txt rergrf.txt
+ 2033  grep -nf rdgdgesfrg.txt rdgrdfergd.txt
+ 2034  ./s21_grep -nf 1.txt 3.txt 
+ 2035  make s21_grep 
+ 2036  bash grep.sh 
+ 2037  ./s21_grep -nf 1.txt 3.txt 
+ 2038  make s21_grep 
+ 2039  ./s21_grep -nf 1.txt 3.txt 
+ 2040  make s21_grep 
+ 2041  ./s21_grep -nf 1.txt 3.txt 
+ 2042  make s21_grep 
+ 2043  bash grep.sh 
+ 2044  valgrind --leak-check=full ./s21_grep -nf drgresfsf.txt rergrf.txt
+ 2045  valgrind --leak-check=full ./s21_grep -nf 1.txt 3.txt 
+ 2046  valgrind --leak-check=full ./s21_grep -nf 3.txt 1.txt 
+ 2047  valgrind --leak-check=full ./s21_grep -e [a-z]... big_file.txt 
+ 2048  valgrind --leak-check=full ./s21_grep -ie [a-z]... big_file.txt 
+ 2049  valgrind --leak-check=full ./s21_grep -ve [a-z]... big_file.txt 
+ 2050  valgrind --leak-check=full ./s21_grep -ce [a-z]... big_file.txt 
+ 2051  valgrind --leak-check=full ./s21_grep -le [a-z]... big_file.txt 
+ 2052  valgrind --leak-check=full ./s21_grep -ne [a-z]... big_file.txt 
+ 2053  valgrind --leak-check=full ./s21_grep -he [a-z]... big_file.txt 
+ 2054  valgrind --leak-check=full ./s21_grep -oe [a-z]... big_file.txt 
+ 2055  valgrind --leak-check=full ./s21_grep -oivclnhse [a-z]... big_file.txt 
+ 2056  bash grep.sh 
+ 2057  valgrind --leak-check=full ./s21_grep -ie [a-z]. grep.c print.c
+ 2058  bash grep.sh 
+ 2059  valgrind --leak-check=full ./s21_grep -ve [a-z]. grep.c print.c
+ 2060  bash grep.sh 
+ 2061  valgrind --leak-check=full ./s21_grep -ce [a-z]. grep.c print.c
+ 2062  bash grep.sh 
+ 2063  valgrind --leak-check=full ./s21_grep -ce [a-z]. grep.c print.c
+ 2064  valgrind --leak-check=full ./s21_grep -le [a-z]. grep.c print.c
+ 2065  bash grep.sh 
+ 2066  valgrind --leak-check=full ./s21_grep -ne [a-z]. grep.c print.c
+ 2067  bash grep.sh 
+ 2068  valgrind --leak-check=full ./s21_grep -he [a-z]. grep.c print.c
+ 2069  bash grep.sh 
+ 2070  valgrind --leak-check=full ./s21_grep -se [a-z]. grep.c print.c
+ 2071  bash grep.sh
+ 2072  valgrind --leak-check=full ./s21_grep -oe [a-z]. grep.c print.c
+ 2073  bash grep.sh
+ 2074  valgrind --leak-check=full ./s21_grep -iv [a-z]. grep.c print.c
+ 2075  bash grep.sh
+ 2076  valgrind --leak-check=full ./s21_grep -ic [a-z]. grep.c print.c
+ 2077  bash grep.sh
+ 2078  valgrind --leak-check=full ./s21_grep -il [a-z]. grep.c print.c
+ 2079  bash grep.sh
+ 2080  valgrind --leak-check=full ./s21_grep -in [a-z]. grep.c print.c
+ 2081  bash grep.sh
+ 2082  valgrind --leak-check=full ./s21_grep -ih [a-z]. grep.c print.c
+ 2083  bash grep.sh
+ 2084  valgrind --leak-check=full ./s21_grep -is [a-z]. grep.c print.c
+ 2085  bash grep.sh
+ 2086  valgrind --leak-check=full ./s21_grep -io [a-z]. grep.c print.c
+ 2087  bash grep.sh
+ 2088  valgrind --leak-check=full ./s21_grep -vc [a-z]. grep.c print.c
+ 2089  bash grep.sh
+ 2090  valgrind --leak-check=full ./s21_grep -vl [a-z]. grep.c print.c
+ 2091  bash grep.sh
+ 2092  valgrind --leak-check=full ./s21_grep -vn [a-z]. grep.c print.c
+ 2093  bash grep.sh
+ 2094  valgrind --leak-check=full ./s21_grep -vh [a-z]. grep.c print.c
+ 2095  bash grep.sh
+ 2096  valgrind --leak-check=full ./s21_grep -vs [a-z]. grep.c print.c
+ 2097  bash grep.sh
+ 2098  valgrind --leak-check=full ./s21_grep -vo [a-z]. grep.c print.c
+ 2099  bash grep.sh
+ 2100  valgrind --leak-check=full ./s21_grep -cl [a-z]. grep.c print.c
+ 2101  bash grep.sh
+ 2102  valgrind --leak-check=full ./s21_grep -cn [a-z]. grep.c print.c
+ 2103  bash grep.sh
+ 2104  valgrind --leak-check=full ./s21_grep -ch [a-z]. grep.c print.c
+ 2105  bash grep.sh
+ 2106  valgrind --leak-check=full ./s21_grep -cs [a-z]. grep.c print.c
+ 2107  bash grep.sh
+ 2108  valgrind --leak-check=full ./s21_grep -co [a-z]. grep.c print.c
+ 2109  bash grep.sh
+ 2110  valgrind --leak-check=full ./s21_grep -ln [a-z]. grep.c print.c
+ 2111  bash grep.sh
+ 2112  valgrind --leak-check=full ./s21_grep -lh [a-z]. grep.c print.c
+ 2113  bash grep.sh
+ 2114  valgrind --leak-check=full ./s21_grep -ls [a-z]. grep.c print.c
+ 2115  bash grep.sh
+ 2116  valgrind --leak-check=full ./s21_grep -lo [a-z]. grep.c print.c
+ 2117  bash grep.sh
+ 2118  valgrind --leak-check=full ./s21_grep -nh [a-z]. grep.c print.c
+ 2119  bash grep.sh
+ 2120  valgrind --leak-check=full ./s21_grep -ns [a-z]. grep.c print.c
+ 2121  bash grep.sh
+ 2122  valgrind --leak-check=full ./s21_grep -no [a-z]. grep.c print.c
+ 2123  bash grep.sh
+ 2124  valgrind --leak-check=full ./s21_grep -hs [a-z]. grep.c print.c
+ 2125  bash grep.sh
+ 2126  valgrind --leak-check=full ./s21_grep -ho [a-z]. grep.c print.c
+ 2127  bash grep.sh
+ 2128  valgrind --leak-check=full ./s21_grep -so [a-z]. grep.c print.c
+ 2129  valgrind --leak-check=full ./s21_grep -e [a-z]. -i -v -c grep.c print.c
+ 2130  bash grep.sh
+ 2131  valgrind --leak-check=full ./s21_grep -f arg.txt grep.c print.c
+ 2132  bash grep.sh
+ 2133  valgrind --leak-check=full ./s21_grep -f arg.txt -e 1 grep.c print.c
+ 2134  bash grep.sh
+ 2135  valgrind --leak-check=full ./s21_grep -if arg.txt grep.c print.c
+ 2136  bash grep.sh
+ 2137  valgrind --leak-check=full ./s21_grep -vf arg.txt grep.c print.c
+ 2138  bash grep.sh
+ 2139  valgrind --leak-check=full ./s21_grep -cf arg.txt grep.c print.c
+ 2140  bash grep.sh
+ 2141  valgrind --leak-check=full ./s21_grep -lf arg.txt grep.c print.c
+ 2142  bash grep.sh
+ 2143  valgrind --leak-check=full ./s21_grep -nf arg.txt grep.c print.c
+ 2144  bash grep.sh
+ 2145  valgrind --leak-check=full ./s21_grep -hf arg.txt grep.c print.c
+ 2146  bash grep.sh
+ 2147  valgrind --leak-check=full ./s21_grep -hf arg.txt grep.c print.c
+ 2148  valgrind --leak-check=full ./s21_grep -sf arg.txt grep.c print.c
+ 2149  bash grep.sh
+ 2150  valgrind --leak-check=full ./s21_grep -of arg.txt grep.c print.c
+ 2151  grep -f arg.txt -f 1.txt 2.txt 
+ 2152  ./s21_grep -f arg.txt -f 1.txt 2.txt 
+ 2153  cd ..
+ 2154  clang-format -n grep/*.c
+ 2155  clang-format -i grep/*.c
+ 2156  clang-format -n grep/*.c
+ 2157  clang-format -i grep/*.h
+ 2158* clang-format -n gr
+ 2159  cd grep/
+ 2160  cppcheck --enable=all --std=c11 *.c *.h
+ 2161  clang-format -i grep/*.c
+ 2162  cd ..
+ 2163  clang-format -i grep/*.c
+ 2164  clang-format -n grep/*.c
+ 2165  clang-format -n cat/*.c
+ 2166  clang-format -n cat/*.h
+ 2167  clang-format -i cat/*.c
+ 2168  clang-format -i cat/*.h
+ 2169  cd cat
+ 2170  cppcheck --enable=all --std=c11 *.c *.h
+ 2171  cd ../grep/
+ 2172  cppcheck --enable=all --std=c11 *.c *.h
+ 2173  cppcheck --enable=all --std=c11 args.c
+ 2174  cppcheck --enable=all --std=c11 *.c *.h
+ 2175  cd ..
+ 2176  clang-format -i grep/*.c
+ 2177  clang-format -i grep/*.h
+ 2178  clang-format -n grep/*.c
+ 2179  clang-format -n grep/*.h
+ 2180  cd grep/
+ 2181  history | grep val
+ 2182  valgrind --leak-check=full ./s21_grep -of 3.txt 1.txt 
+ 2183  make s21_grep 
+ 2184  bash grep.sh
+ 2185  valgrind --leak-check=full ./s21_grep -of 3.txt 1.txt 
+ 2186  ./s21_grep -of 3.txt 1.txt 
+ 2187  make s21_grep 
+ 2188  ./s21_grep -of 3.txt 1.txt 
+ 2189  make s21_grep 
+ 2190  ./s21_grep -of 3.txt 1.txt 
+ 2191  make s21_grep 
+ 2192  ./s21_grep -of 3.txt 1.txt 
+ 2193  make s21_grep 
+ 2194  ./s21_grep -of 3.txt 1.txt 
+ 2195  make s21_grep 
+ 2196  ./s21_grep -of 3.txt 1.txt 
+ 2197  make s21_grep 
+ 2198  ./s21_grep -of 3.txt 1.txt 
+ 2199  make s21_grep 
+ 2200  ./s21_grep -of 3.txt 1.txt 
+ 2201  make s21_grep 
+ 2202  ./s21_grep -of 3.txt 1.txt 
+ 2203  nano history.txt
+ 2204  nano history.txt 500 > history500.txt
+ 2205  history.txt 500 > history500.txt
+ 2206  history 500 > history500.txt
+ 2207  history > history500.txt

@@ -1,12 +1,12 @@
 CC = gcc
 CFLAGS = -Wall -Werror -Wextra -std=c11
-CAT = cat.c func.c
-QUEST1 = s21_cat
+GREP = grep.c args.c file.c malloc.c print.c reg.c
+QUEST1 = s21_grep
 
 %.o: %.c
 	$(CC) $(CFLAGS) -c $< -o $@
 
-s21_cat: $(CAT)
+s21_grep: $(GREP)
 	$(CC) $(CFLAGS) $^ -o $(QUEST1)
 
 .PHONY: clean

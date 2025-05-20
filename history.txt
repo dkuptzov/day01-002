@@ -1,0 +1,1 @@
+valgrind --leak-check=full ./s21_grep -of 3.txt 1.txt 
